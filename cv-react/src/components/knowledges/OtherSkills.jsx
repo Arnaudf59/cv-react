@@ -35,7 +35,7 @@ const OtherSkills = () => {
                         </li>
                         <li>
                             <i className="fas fa-check-square"></i>
-                            Magento
+                            Python
                         </li>
                         <li>
                             <i className="fas fa-check-square"></i>
