@@ -2,7 +2,7 @@
   .portfolioContent {
     width: 100%;
     display: grid;
-    min-height: $minHeight;
+    min-height: $min-height;
     grid-template-columns: 1fr;
     grid-template-rows: 50px 1fr;
     grid-template-areas: 
@@ -12,7 +12,7 @@
 
   .radioDisplay {
     grid-area: 1;
-    border-radius: $borderRadius;
+    border-radius: $borderRaduis;
     display: flex;
     width: 100%;
     padding: 1rem 2rem;
@@ -84,7 +84,7 @@
 
     .project {
       background: $color-2;
-      border-radius: $borderRadius;
+      border-radius: $borderRaduis;
       margin: 0.5rem 0 0 0;
       text-align: center;
       width: 32%;
@@ -160,7 +160,7 @@
         margin: 0 auto;
         color: $color-5;
         background: $color-1;
-        border-radius: $borderRadius;
+        border-radius: $borderRaduis;
         padding: 2rem;
         box-shadow: 0 10px 10px #333;
         animation: popup .6s ease forwards;
@@ -186,7 +186,7 @@
         cursor: pointer;
         color: $color-1;
         background: $color-5;
-        border-radius: $borderRadius;
+        border-radius: $borderRaduis;
         padding: 1rem;
         transition: .2s;
 

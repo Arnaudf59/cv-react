@@ -13,33 +13,33 @@ const OtherSkills = () => {
                         </li>
                         <li>
                             <i className="fas fa-check-square"></i>
-                            Mongodb/Mongoose
+                            Python
                         </li>
                         <li>
                             <i className="fas fa-check-square"></i>
-                            Mongodb/Mongoose
+                            CSS
                         </li>
                         <li>
                             <i className="fas fa-check-square"></i>
-                            Mongodb/Mongoose
+                            JQuery
                         </li>
                     </ul>
                     <ul>
                         <li>
                             <i className="fas fa-check-square"></i>
-                            Mongodb/Mongoose
+                            AJAX
                         </li>
                         <li>
                             <i className="fas fa-check-square"></i>
-                            Mongodb/Mongoose
+                            Prestashop
                         </li>
                         <li>
                             <i className="fas fa-check-square"></i>
-                            Mongodb/Mongoose
+                            Magento
                         </li>
                         <li>
                             <i className="fas fa-check-square"></i>
-                            Mongodb/Mongoose
+                            Wordpress
                         </li>
                     </ul>
                 </div>
